@@ -17,7 +17,9 @@ PROVIDERS="
 77.88.8.7#yandex 
 176.103.130.132#adguard 
 156.154.70.3#neustar 
-8.26.56.26#comodo
+8.26.56.26#comodo 
+80.67.169.12#FDN1 
+80.67.169.40#FDN2
 "
 
 # Domains to test. Duplicated domains are ok
